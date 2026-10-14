@@ -1,6 +1,6 @@
 # Real-Time Sign Language Recognition (ASL Alphabet)
 
-Elevate Labs AI & ML Internship (MSME, Govt. of India) - Project Phase, Project 7.
+Elevate Labs AI & ML Internship (MSME, Govt. of India) - Project Phase.
 
 A system that recognises American Sign Language (ASL) alphabet signs from hand images and from a live webcam, and combines recognised letters into words.
 
